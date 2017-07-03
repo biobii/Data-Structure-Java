@@ -1,0 +1,4 @@
+Praktikum04.LinkedList.LinkStack
+Praktikum04.LinkedList.LinkStackApp
+Praktikum04.LinkedList.Link
+Praktikum04.LinkedList.LinkList
